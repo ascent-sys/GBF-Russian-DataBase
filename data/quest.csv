@@ -2,206 +2,203 @@ Language,SceneCode,Type,Name,Origin,Russian
 English,scene_tutorial00,synopsis,,"Inspired by their father's letter, a young dreamer seeks the end of the sky. But on preparing to depart, a warship appears in the village along with a mysterious girl seeking aid.","Вдохновленный письмом отца, молодой мечтатель ищет конец неба. Но, готовясь к отъезду, в деревне появляется военный корабль вместе с таинственной девушкой, ищущей помощи."
 English,scene_tutorial00,detail,,"In a world abandoned by the gods, a lone dragon remained.","В мире, покинутом богами, остался одинокий дракон."
 English,scene_tutorial00,detail,,"Bahamut, ruler of creation through destruction, sought to refine the realm the gods left behind into a richer, more bountiful place.","Бахамут, правитель творения через разрушение, стремился превратить оставленное богами царство в более богатое и изобильное."
-English,scene_tutorial00,detail,,"But the arrival of invaders from beyond the sky—the Astrals—brought an end to his plans.","Но появление пришельцев из-за неба - Астралов, положило конец его планам."
-English,scene_tutorial00,detail,,"The Astrals used creatures of terrible power known as primal beasts to bring the sky under their control. Long did the skies belong to the stars.","Астралы использовали существ ужасной силы, известных как первобытные звери, чтобы взять небо под свой контроль. Долгое время небо принадлежало звездам."
-English,scene_tutorial00,detail,,"But the skydwellers bided their time and learned from their foes. Eventually they fought to take back the skies in a conflict that would come to be known as the War.","Но воздухоплаватели выжидали и учились у своих врагов. В конце концов, они сражались, чтобы вернуть небеса в конфликте, который стал известен как Война."
+English,scene_tutorial00,detail,,But the arrival of invaders from beyond the sky—the Astrals—brought an end to his plans.,"Но появление пришельцев из-за неба - Астралов, положило конец его планам."
+English,scene_tutorial00,detail,,The Astrals used creatures of terrible power known as primal beasts to bring the sky under their control. Long did the skies belong to the stars.,"Астралы использовали существ ужасной силы, известных как первобытные звери, чтобы взять небо под свой контроль. Долгое время небо принадлежало звездам."
+English,scene_tutorial00,detail,,But the skydwellers bided their time and learned from their foes. Eventually they fought to take back the skies in a conflict that would come to be known as the War.,"Но воздухоплаватели выжидали и учились у своих врагов. В конце концов, они сражались, чтобы вернуть небеса в конфликте, который стал известен как Война."
 English,scene_tutorial00,detail,,"And here we find the Sky Realm, now a world of fragmented lands floating in a sea of clouds.","И здесь мы находим Небесное царство, теперь мир фрагментированных земель, плывущих в море облаков."
 English,scene_tutorial00,detail,,"A new tale is about to begin here, spanning the skies and the stars alike...","Скоро здесь начнется новая сказка, охватывающая небо и звезды..."
 English,scene_tutorial00,detail,Vyrn,"Say, are you serious about leavin' the village?","Скажи, ты серьезно собираешься покинуть деревню?"
 English,scene_tutorial00,detail,Vyrn,"Sure, your dad wrote about the end of the sky in his letter, but getting there might as well be impossible...","Конечно, твой отец писал о конце неба в своем письме, но попасть туда с таким же успехом было бы невозможно..."
 English,scene_tutorial00,sel1_txt,,I know we can reach it!,"Я знаю, что мы сможем до него добраться!"
-English,scene_tutorial00,sel2_txt,,I have a plan.,"У меня есть план."
-English,scene_tutorial00,detail,Vyrn,"Oh! You mean with the Sky Map? The thingy the Astrals put together centuries ago?","Ох! Ты имеешь в виду Карту неба? Штуку, которую Астралы собрали много веков назад?"
-English,scene_tutorial00,detail,Vyrn,"If we had something like that, we could go anywhere! But you know that map's just something out of a fairy tale...",
-English,scene_tutorial00,detail,Vyrn,"Real or not, there's no stopping you once you've made up your mind. Beats hanging around this sleepy village anyway!",
-English,scene_tutorial00,detail,Vyrn,"Huh?<br>Whoa! Hang on a minute! What was that?",
-English,scene_tutorial00,detail,Vyrn,"That's... a battleship! What's it doing here in the middle of nowhere?",
-English,scene_tutorial00,detail,Vyrn,"No way! What's going on here? I just heard something explode!",
-English,scene_tutorial00,detail,???,"...",
-English,scene_tutorial00,sel1_txt,,I just saw a flash over by the forest...,
-English,scene_tutorial00,detail,Vyrn,"What do you think it was? A part of the ship?",
-English,scene_tutorial00,detail,Vyrn,"Hoo boy... What if that sets the whole forest on fire?",
-English,scene_tutorial00,sel1_txt,,We'd better check it out!,
-English,scene_tutorial00,detail,Vyrn,"Whatever fell from that battleship should be over... here.",
-English,scene_tutorial00,detail,???,"Eek!",
-English,scene_tutorial00,detail,Mysterious Girl,"Ouch...",
-English,scene_tutorial00,detail,Mysterious Girl,"...!",
-English,scene_tutorial00,detail,Vyrn,"Who's the girl? Never seen her around here before.",
-English,scene_tutorial00,sel1_txt,,Are you okay? You're not hurt, are you?,
-English,scene_tutorial00,detail,Mysterious Girl,"P-please! S-save me!",
-English,scene_tutorial00,detail,Vyrn,"H-hey... That's a big request to spring on someone!",
-English,scene_tutorial00,detail,Gruff Voice,"You there! Halt!<br>Drop your sword! Hands in the air!",
-English,scene_tutorial00,detail,Mysterious Girl,"Gasp!",
-English,scene_tutorial00,detail,,"Soldiers in pursuit of the girl show up. Their armor suggests they are with the villainous Erste Empire, which employs military might to force kingdoms throughout the skies to their knees.",
-English,scene_tutorial00,detail,Vyrn,"Who are you guys? Are you trying to pick a fight?",
-English,scene_tutorial00,detail,Imperial Soldier,"If your life means anything to you, you'll cooperate and hand over that girl.",
-English,scene_tutorial00,detail,,"The soldiers' hostile intentions terrifies the girl.",
-English,scene_tutorial00,detail,Mysterious Girl,"N-no!",
-English,scene_tutorial00,detail,Imperial Soldier,"You heard me! Hand her over! You don't want to force my hand.",
-English,scene_tutorial00,sel1_txt,,She asked for our help!,
-English,scene_tutorial00,sel2_txt,,Like we can trust you!,
-English,scene_tutorial00,detail,Vyrn,"That's right! We can't just do what you say when she's shakin' like a leaf over here!",
-English,scene_tutorial00,detail,Imperial Soldier,"So that's how we're gonna play it, huh? Don't say I didn't warn you!",
-English,scene_tutorial00,detail,,"...!",
-
-English,scene_tutorial01,synopsis,,"Two elite soldiers are pursuing the mysterious girl named Lyria. The knight Katalina tries to protect her, while Captain Pommern attempts to do harm to the girl and young dreamer alike.",
-English,scene_tutorial01,detail,Imperial Soldier,"Argh! Why you little...",
-English,scene_tutorial01,detail,,"...",
-English,scene_tutorial01,detail,Vyrn,"Betcha weren't expecting that, huh? You can only dream of matching my pal's sword skills!",
-English,scene_tutorial01,detail,Imperial Soldier,"Curses... This isn't over!",
-English,scene_tutorial01,detail,Vyrn,"A friend of his? Stay sharp!",
-English,scene_tutorial01,detail,Knight,"Lyria! Are you all right?",
-English,scene_tutorial01,detail,Mysterious Girl,"Katalina! I... I...",
-English,scene_tutorial01,detail,Knight,"Thank goodness she hasn't been injured. Have you two been protecting her?",
-English,scene_tutorial01,detail,Vyrn,"I guess you could say that! They were after us too, so we just did what came naturally.",
-English,scene_tutorial01,detail,Mysterious Girl,"You should have seen it, Katalina! This hero saved me! It was so... heroic!",
-English,scene_tutorial01,detail,Knight,"Is that so? Well, I'm just glad you're safe.",
-English,scene_tutorial01,detail,Vyrn,"So, um... Who are you guys exactly?",
-English,scene_tutorial01,detail,Vyrn,"Doesn't seem like you're friends with those jerks from earlier.",
-English,scene_tutorial01,detail,Katalina,"Ah, yes, how rude of me. My name is Katalina Aryze.",
-English,scene_tutorial01,detail,Katalina,"And this is Lyria. I can't thank you enough for saving her.",
-English,scene_tutorial01,detail,Katalina,"If you don't mind, could you tell me your name as well?",
-English,scene_tutorial01,detail,Vyrn,"And I'm Vyrn! Where'd you two come from? Were those soldiers after you?",
-English,scene_tutorial01,detail,Lyria,"W-where? Well, uh...",
-English,scene_tutorial01,detail,Katalina,"That's right...<br>We... were being chased.",
-English,scene_tutorial01,detail,Katalina,"Which is why we need to get out of here before more of them show up, and—",
-English,scene_tutorial01,detail,???,"Lieutenant Katalina!",
-English,scene_tutorial01,detail,???,"I do say. Did I give the order for you to stop and smell the roses out here, Lieutenant?",
-English,scene_tutorial01,detail,Katalina,"C-Captain Pommern! Terribly sorry, sir. I'll return Lyria to the ship immediatel—",
-English,scene_tutorial01,detail,Pommern,"Enough of these lies! You're the one who spirited her away from the ship, are you not?",
-English,scene_tutorial01,detail,Pommern,"I do say! To defy the mighty Erste Empire requires profound bravery... and profound <span class='scene-font-italic'>stupidity</span>.",
-English,scene_tutorial01,detail,Katalina,"...",
-English,scene_tutorial01,detail,Pommern,"You knew the classified nature of the girl's existence when we placed her in your protection.",
-English,scene_tutorial01,detail,Pommern,"Which means you must surely be aware of the gravity of your actions, yes?",
-English,scene_tutorial01,detail,Pommern,"We need that girl to command the primals. To assist in her escape demands a grave punishment indeed!",
-English,scene_tutorial01,detail,Katalina,"Captain... I simply thought it too dangerous for us to attempt using the power of the primal beasts.",
-English,scene_tutorial01,detail,Katalina,"The primals are a legacy of the Astrals... Terrifying weapons that set the skies ablaze during the War.",
-English,scene_tutorial01,detail,Katalina,"There's still much we don't know about them. To wield their power is—",
-English,scene_tutorial01,detail,Pommern,"Don't change the subject!",
-English,scene_tutorial01,detail,Pommern,"I do say... I've had quite enough of your insipid drivel. It's time to do what we came here for.",
-English,scene_tutorial01,detail,Pommern,"Bweheheh... Who will weep for this pathetic backwater burg? No one! We shall destroy it!",
-English,scene_tutorial01,detail,Vyrn,"Excuse me?",
-English,scene_tutorial01,detail,Pommern,"I'll rid this place of anyone who opposes us! For I do say, the power to control the primals belongs to the Empire!",
-English,scene_tutorial01,detail,Pommern,"Release the Hydra!",
-English,scene_tutorial01,detail,Imperial Soldier,"Sir!",
-English,scene_tutorial01,detail,Katalina,"The Hydra? It can't be!",
-English,scene_tutorial01,detail,Pommern,"It can, Lieutenant! And all so that you may take <span class='scene-font-italic'>proper</span> responsibility for your actions!",
-English,scene_tutorial01,detail,Imperial Soldier,"Use the Hydra! Spread out in formation to keep them from running!",
-English,scene_tutorial01,detail,Hydra,"Groooar!",
-English,scene_tutorial01,detail,Vyrn,"Where'd this crazy monster come from! Did that beard-twirlin' doofus bring it with him?",
-English,scene_tutorial01,detail,Lyria,"Katalina!",
+English,scene_tutorial00,sel2_txt,,I have a plan.,У меня есть план.
+English,scene_tutorial00,detail,Vyrn,Oh! You mean with the Sky Map? The thingy the Astrals put together centuries ago?,"Ох! Ты имеешь в виду Карту неба? Штуку, которую Астралы собрали много веков назад?"
+English,scene_tutorial00,detail,Vyrn,"If we had something like that, we could go anywhere! But you know that map's just something out of a fairy tale...","Если бы у нас было что-то подобное, мы могли бы пойти куда угодно! Но ты же знаешь, что эта карта - просто что-то из сказки..."
+English,scene_tutorial00,detail,Vyrn,"Real or not, there's no stopping you once you've made up your mind. Beats hanging around this sleepy village anyway!","Правда или нет, но тебя не остановить, как только ты решишь. В любом случае, это лучше, чем ошиваться в этой сонной деревне!"
+English,scene_tutorial00,detail,Vyrn,Huh?<br>Whoa! Hang on a minute! What was that?,А?<br>Вуа! Подожди минутку! Что это было?
+English,scene_tutorial00,detail,Vyrn,That's... a battleship! What's it doing here in the middle of nowhere?,"Это... линкор! Что он делает здесь, в глуши?"
+English,scene_tutorial00,detail,Vyrn,No way! What's going on here? I just heard something explode!,"Не может быть! Что здесь происходит? Я только что услышал, как что-то взорвалось!"
+English,scene_tutorial00,detail,???,...,...
+English,scene_tutorial00,sel1_txt,,I just saw a flash over by the forest...,Я только что видел вспышку у леса...
+English,scene_tutorial00,detail,Vyrn,What do you think it was? A part of the ship?,"Как ты думаешь, что это было? Часть корабля?"
+English,scene_tutorial00,detail,Vyrn,Hoo boy... What if that sets the whole forest on fire?,Хоо парень... Что если это подожжет весь лес?
+English,scene_tutorial00,sel1_txt,,We'd better check it out!,Нам лучше это проверить!
+English,scene_tutorial00,detail,Vyrn,Whatever fell from that battleship should be over... here.,"Что бы ни упало с того линкора, оно должно быть уже... здесь."
+English,scene_tutorial00,detail,???,Eek!,Ик!
+English,scene_tutorial00,detail,Mysterious Girl,Ouch...,Ауч...
+English,scene_tutorial00,detail,Mysterious Girl,...!,...!
+English,scene_tutorial00,detail,Vyrn,Who's the girl? Never seen her around here before.,Кто эта девушка? Никогда не видел ее здесь раньше.
+English,scene_tutorial00,sel1_txt,,Are you okay? You're not hurt are you?,Ты в порядке? Ты не ранен?
+English,scene_tutorial00,detail,Mysterious Girl,P-please! S-save me!,П-пожалуйста! С-спаси меня!
+English,scene_tutorial00,detail,Vyrn,H-hey... That's a big request to spring on someone!,Э-эй ... Это большая просьба напасть на кого-нибудь!
+English,scene_tutorial00,detail,Gruff Voice,You there! Halt!<br>Drop your sword! Hands in the air!,Ты там! Стой!<br>Брось меч! Руки вверх!
+English,scene_tutorial00,detail,Mysterious Girl,Gasp!,*Задыхается*
+English,scene_tutorial00,detail,,"Soldiers in pursuit of the girl show up. Their armor suggests they are with the villainous Erste Empire, which employs military might to force kingdoms throughout the skies to their knees.","Солдаты, преследующие девушку, появляются. Их доспехи говорят о том, что они с злодейской империи Эрсте, которая использует военную мощь, чтобы заставить королевства по всему небу стоять на коленях."
+English,scene_tutorial00,detail,Vyrn,Who are you guys? Are you trying to pick a fight?,Вы кто такие? Вы пытаетесь завязать драку?
+English,scene_tutorial00,detail,Imperial Soldier,"If your life means anything to you, you'll cooperate and hand over that girl.","Если твоя жизнь для тебя что-то значит, ты будешь сотрудничать и отдашь эту девушку."
+English,scene_tutorial00,detail,,The soldiers' hostile intentions terrifies the girl.,Враждебные намерения солдат пугают девушку.
+English,scene_tutorial00,detail,Mysterious Girl,N-no!,Н-нет!
+English,scene_tutorial00,detail,Imperial Soldier,You heard me! Hand her over! You don't want to force my hand.,Ты меня слышал! Отдай ее! Не вынуждая меня применять силу.
+English,scene_tutorial00,sel1_txt,,She asked for our help!,Она попросила нашей помощи!
+English,scene_tutorial00,sel2_txt,,Like we can trust you!,Как будто мы можем вам доверять!
+English,scene_tutorial00,detail,Vyrn,That's right! We can't just do what you say when she's shakin' like a leaf over here!,"Верно! Мы не можем просто делать то, что ты говоришь, когда она дрожит, как лист!"
+English,scene_tutorial00,detail,Imperial Soldier,"So that's how we're gonna play it, huh? Don't say I didn't warn you!","Так вот как мы будем играть, хах? Не говори, что я тебя не предупреждал!"
+English,scene_tutorial00,detail,,...!,...!
+English,scene_tutorial01,synopsis,,"Two elite soldiers are pursuing the mysterious girl named Lyria. The knight Katalina tries to protect her, while Captain Pommern attempts to do harm to the girl and young dreamer alike.","Два элитных солдата преследуют таинственную девушку по имени Лирия. Рыцарь Каталина пытается защитить ее, в то время как капитан Поммерн пытается причинить вред как девушке, так и молодому мечтателю."
+English,scene_tutorial01,detail,Imperial Soldier,Argh! Why you little...,Аргх! Почему ты маленький...
+English,scene_tutorial01,detail,,...,...
+English,scene_tutorial01,detail,Vyrn,"Betcha weren't expecting that, huh? You can only dream of matching my pal's sword skills!","Бьюсь об заклад, мы этого не ожидали, да? Ты можешь только мечтать о том, чтобы соответствовать мастерству меча моего приятеля!"
+English,scene_tutorial01,detail,Imperial Soldier,Curses... This isn't over!,Проклятие... Это еще не конец!
+English,scene_tutorial01,detail,Vyrn,A friend of his? Stay sharp!,Его друг? Будь начеку!
+English,scene_tutorial01,detail,Knight,Lyria! Are you all right?,Лирия! Ты в порядке?
+English,scene_tutorial01,detail,Mysterious Girl,Katalina! I... I...,Каталина! Я... Я...
+English,scene_tutorial01,detail,Knight,Thank goodness she hasn't been injured. Have you two been protecting her?,"Слава богу, она не пострадала. Вы двое защищали ее?"
+English,scene_tutorial01,detail,Vyrn,"I guess you could say that! They were after us too, so we just did what came naturally.","Думаю, можно и так сказать! Они тоже преследовали, так что мы просто делали то, что было естественным."
+English,scene_tutorial01,detail,Mysterious Girl,"You should have seen it, Katalina! This hero saved me! It was so... heroic!","Ты бы видела, Каталина! Этот герой спас меня! Это было так... героически!"
+English,scene_tutorial01,detail,Knight,"Is that so? Well, I'm just glad you're safe.","Неужели? Ну, я рада, что ты в безопасности."
+English,scene_tutorial01,detail,Vyrn,"So, um... Who are you guys exactly?","Итак, эм ... Кто вы такие, ребята?"
+English,scene_tutorial01,detail,Vyrn,Doesn't seem like you're friends with those jerks from earlier.,"Не похоже, что вы дружите с теми придурками, что были здесь раньше."
+English,scene_tutorial01,detail,Katalina,"Ah, yes, how rude of me. My name is Katalina Aryze.","Ах, да, как грубо с моей стороны. Меня зовут Каталина Аризе."
+English,scene_tutorial01,detail,Katalina,And this is Lyria. I can't thank you enough for saving her.,"А это Лирия. Я не могу отблагодарить вас за то, что вы спасли ее."
+English,scene_tutorial01,detail,Katalina,"If you don't mind, could you tell me your name as well?","Если вы не возражаете, не могли бы вы сказать, как вас зовут?"
+English,scene_tutorial01,detail,Vyrn,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?,Я - Вирн! Откуда вы двое взялись? Эти солдаты преследовали вас?
+English,scene_tutorial01,detail,Lyria,"W-where? Well, uh...",Откуда? Ну... эээ...
+English,scene_tutorial01,detail,Katalina,That's right...<br>We... were being chased.,Верно... <br> Нас... преследовали.
+English,scene_tutorial01,detail,Katalina,"Which is why we need to get out of here before more of them show up, and—","Вот почему нам нужно убраться отсюда, пока не появилось еще больше людей, и..."
+English,scene_tutorial01,detail,???,Lieutenant Katalina!,Лейтенант Каталина!
+English,scene_tutorial01,detail,???,"I do say. Did I give the order for you to stop and smell the roses out here, Lieutenant?","Я говорю. Разве я приказал вам остановиться и понюхать здешние розы, лейтенант?"
+English,scene_tutorial01,detail,Katalina,"C-Captain Pommern! Terribly sorry, sir. I'll return Lyria to the ship immediatel—","К-Капитан Поммерн! Ужасно сожалею, сэр. Я немедленно верну Лирию на корабль..."
+English,scene_tutorial01,detail,Pommern,"Enough of these lies! You're the one who spirited her away from the ship, are you not?","Хватит этой лжи! Ты ведь та, кто помог ей уйти с корабля, не так ли?"
+English,scene_tutorial01,detail,Pommern,I do say! To defy the mighty Erste Empire requires profound bravery... and profound <span class='scene-font-italic'>stupidity</span>.,"Я говорю! Чтобы бросить вызов могущественной империи Эрсте, нужна огромная храбрость... и огромная <span class='scene-font-italic'>глупость</span>."
+English,scene_tutorial01,detail,Katalina,...,...
+English,scene_tutorial01,detail,Pommern,You knew the classified nature of the girl's existence when we placed her in your protection.,"Вы знали о секретной природе существования девушки, когда мы поместили ее под вашу защиту."
+English,scene_tutorial01,detail,Pommern,"Which means you must surely be aware of the gravity of your actions, yes?","Что означает, что вы, безусловно, должны быть осведомлены о тяжести ваших действий, да?"
+English,scene_tutorial01,detail,Pommern,We need that girl to command the primals. To assist in her escape demands a grave punishment indeed!,"Нам нужна эта девушка, чтобы командовать первобытными. Чтобы помочь ей сбежать, необходимо суровое наказание!"
+English,scene_tutorial01,detail,Katalina,Captain... I simply thought it too dangerous for us to attempt using the power of the primal beasts.,"Капитан... Я просто подумала, что для нас слишком опасно пытаться использовать силу первобытных зверей."
+English,scene_tutorial01,detail,Katalina,The primals are a legacy of the Astrals... Terrifying weapons that set the skies ablaze during the War.,"Первобытные - это наследие астральных... Ужасное оружие, которое сжигало небо во время войны."
+English,scene_tutorial01,detail,Katalina,There's still much we don't know about them. To wield their power is—,Мы еще многого не знаем о них. Обладать их силой это...
+English,scene_tutorial01,detail,Pommern,Don't change the subject!,Не меняйте тему!
+English,scene_tutorial01,detail,Pommern,I do say... I've had quite enough of your insipid drivel. It's time to do what we came here for.,"Я говорю... Хватит с меня твоей глупой болтовни. Пришло время сделать то, зачем мы сюда пришли."
+English,scene_tutorial01,detail,Pommern,Bweheheh... Who will weep for this pathetic backwater burg? No one! We shall destroy it!,Бвехехе... Кто будет оплакивать это жалкое захолустье? Никто! Мы уничтожим его!
+English,scene_tutorial01,detail,Vyrn,Excuse me?,Простите?
+English,scene_tutorial01,detail,Pommern,"I'll rid this place of anyone who opposes us! For I do say, the power to control the primals belongs to the Empire!","Я избавлю это место от всех, кто против нас! Ибо я говорю, что власть контролировать первобытных принадлежит Империи!"
+English,scene_tutorial01,detail,Pommern,Release the Hydra!,Освободите Гидру!
+English,scene_tutorial01,detail,Imperial Soldier,Sir!,Сэр!
+English,scene_tutorial01,detail,Katalina,The Hydra? It can't be!,Гидра? Не может быть!
+English,scene_tutorial01,detail,Pommern,"It can, Lieutenant! And all so that you may take <span class='scene-font-italic'>proper</span> responsibility for your actions!","Может, лейтенант! И все для того, чтобы вы могли принять на себя <span class='scene-font-italic'>надлежащую</span> ответственность за свои действия!"
+English,scene_tutorial01,detail,Imperial Soldier,Use the Hydra! Spread out in formation to keep them from running!,"Используйте Гидру! Рассредоточьтесь, не дайте им сбежать!"
+English,scene_tutorial01,detail,Hydra,Groooar!,Грооар!
+English,scene_tutorial01,detail,Vyrn,Where'd this crazy monster come from! Did that beard-twirlin' doofus bring it with him?,Откуда взялось это безумное чудовище! Этот бородатый дурачок принёс его с собой?
+English,scene_tutorial01,detail,Lyria,Katalina!,Каталина!
 English,scene_tutorial01,detail,Katalina,"You really intend to burn this island to the ground, don't you?",
-English,scene_tutorial01,detail,Katalina,"Is that how far the Empire's willing to go to use Lyria's power as their own?",
+English,scene_tutorial01,detail,Katalina,Is that how far the Empire's willing to go to use Lyria's power as their own?,
 English,scene_tutorial01,detail,Pommern,"I believe we've explained this before, Lieutenant. With her power as a foundation, the Empire will rule the skies.",
-English,scene_tutorial01,detail,Pommern,"We came to this island to research its primal shrine...",
-English,scene_tutorial01,detail,Pommern,"But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>",
+English,scene_tutorial01,detail,Pommern,We came to this island to research its primal shrine...,
+English,scene_tutorial01,detail,Pommern,But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>,
 English,scene_tutorial01,detail,Lyria,"Katalina, I'm sorry... This is all because I asked you to take me outside...",
 English,scene_tutorial01,detail,Katalina,"Lyria, I promised to show you the outside world. And no matter what happens, I'll stand by that promise.",
-English,scene_tutorial01,detail,Hydra,"Grrr!",
-English,scene_tutorial01,detail,<span class='nickname'></span>,"...!",
-English,scene_tutorial01,detail,Vyrn,"Hold on... You're not actually thinking about tangling with that thing!",
+English,scene_tutorial01,detail,Hydra,Grrr!,Грр-р!
+English,scene_tutorial01,detail,<span class='nickname'></span>,...!,...!
+English,scene_tutorial01,detail,Vyrn,Hold on... You're not actually thinking about tangling with that thing!,
 English,scene_tutorial01,sel1_txt,,We have to save them!,
 English,scene_tutorial01,sel2_txt,,It's now or never!,
-English,scene_tutorial01,detail,Pommern,"I do say! It seems none of you are willing to accept reality!",
-English,scene_tutorial01,detail,Pommern,"Hydra! Dispose of this miserable little moppet!",
-English,scene_tutorial01,detail,Pommern,"May the tot serve as a fitting example of what happens when you defy the Empire!",
-English,scene_tutorial01,detail,Hydra,"Groooar!",
-English,scene_tutorial01,detail,<span class='nickname'></span>,"...!",
-English,scene_tutorial01,detail,<span class='nickname'></span>,"...",
+English,scene_tutorial01,detail,Pommern,I do say! It seems none of you are willing to accept reality!,
+English,scene_tutorial01,detail,Pommern,Hydra! Dispose of this miserable little moppet!,
+English,scene_tutorial01,detail,Pommern,May the tot serve as a fitting example of what happens when you defy the Empire!,
+English,scene_tutorial01,detail,Hydra,Groooar!,Грооар!
+English,scene_tutorial01,detail,<span class='nickname'></span>,...!,...!
+English,scene_tutorial01,detail,<span class='nickname'></span>,...,...
 English,scene_tutorial01,detail,Vyrn,"Whoa! <span class='nickname'></span>!<br>H-hang in there, buddy!",
-English,scene_tutorial01,detail,Pommern,"Bweheheh! How utterly pitiful!",
+English,scene_tutorial01,detail,Pommern,Bweheheh! How utterly pitiful!,
 English,scene_tutorial01,detail,Katalina,"An innocent civilian, and a child at that... Pommern! Just how far have you fallen!",
 English,scene_tutorial01,detail,Vyrn,"Hey, <span class='nickname'></span>! Stop kidding around! Say something! Anything!",
-English,scene_tutorial01,detail,Lyria,"Everything's... all right...",
-English,scene_tutorial01,detail,Pommern,"I do say! What is this light?",
-English,scene_tutorial01,detail,Vyrn,"Look... The shrine's primal crystal is reacting... What is she doing?",
-English,scene_tutorial01,detail,Pommern,"Oh ho... We heard the shrine here was special...",
-English,scene_tutorial01,detail,Pommern,"B-but what in the skies is this?",
-English,scene_tutorial01,detail,Lyria,"Don't worry now...",
-English,scene_tutorial01,detail,Lyria,"<span class='nickname'></span>... I bestow my power on you!",
-
-English,scene_tutorial02,synopsis,,"Lyria reveals how she pried [Игрок] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [Игрок] and Lyria's souls are now permanently intertwined.",
-English,scene_tutorial02,detail,Lyria,"Primeval dragon...",
-English,scene_tutorial02,detail,Lyria,"Child of flames and darkness...",
-English,scene_tutorial02,detail,Lyria,"Thy name is...",
-English,scene_tutorial02,detail,Lyria,"Bahamut!",
-English,scene_tutorial02,detail,Bahamut,"Roooar!",
-English,scene_tutorial02,detail,Hydra,"Gwaarrgh...",
-English,scene_tutorial02,detail,Pommern,"What? It can't be! How could my beloved Hydra be annihilated with a single attack!",
+English,scene_tutorial01,detail,Lyria,Everything's... all right...,
+English,scene_tutorial01,detail,Pommern,I do say! What is this light?,
+English,scene_tutorial01,detail,Vyrn,Look... The shrine's primal crystal is reacting... What is she doing?,
+English,scene_tutorial01,detail,Pommern,Oh ho... We heard the shrine here was special...,
+English,scene_tutorial01,detail,Pommern,B-but what in the skies is this?,
+English,scene_tutorial01,detail,Lyria,Don't worry now...,
+English,scene_tutorial01,detail,Lyria,<span class='nickname'></span>... I bestow my power on you!,... Я дарю тебе свою силу!
+English,scene_tutorial02,synopsis,,Lyria reveals how she pried [Игрок] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [Игрок] and Lyria's souls are now permanently intertwined.,"Лирия рассказывает о том, как она вырвала [Игрок] из пасти смерти, синхронизировав их жизненные силы после того, как молодой герой получил почти смертельную рану от когтей Гидры капитана Поммерна. Душа [Игрок] и душа Лирии теперь навсегда переплелись."
+English,scene_tutorial02,detail,Lyria,Primeval dragon...,Первобытный дракон...
+English,scene_tutorial02,detail,Lyria,Child of flames and darkness...,Дитя пламени и тьмы...
+English,scene_tutorial02,detail,Lyria,Thy name is...,Имя твое...
+English,scene_tutorial02,detail,Lyria,Bahamut!,Бахамут!
+English,scene_tutorial02,detail,Bahamut,Roooar!,Роо-оар!
+English,scene_tutorial02,detail,Hydra,Gwaarrgh...,Гваарргх...
+English,scene_tutorial02,detail,Pommern,What? It can't be! How could my beloved Hydra be annihilated with a single attack!,
 English,scene_tutorial02,detail,Pommern,"No! No, no, no! It can't be! I refuse to believe it!",
-English,scene_tutorial02,detail,Vatass,"...",
+English,scene_tutorial02,detail,Vatass,...,
 English,scene_tutorial02,detail,Vyrn,"Hey! Now's our chance! Let's get outta here, [Игрок]!",
 English,scene_tutorial02,detail,Katalina,"This way, [Игрок]! We have to get those wounds treated immediately!",
 English,scene_tutorial02,detail,,"Thanks to Lyria's mysterious powers, [Игрок] was able to summon a primal beast and defeat the Hydra.",
 English,scene_tutorial02,detail,,"The group takes advantage of the confusion to slip away. With Katalina acting as a guide, they escape the forest.",
-English,scene_tutorial02,detail,Vyrn,"Huff... Huff... I think we managed to lose the beard-twirlin' doofus...",
-English,scene_tutorial02,detail,Vyrn,"That primal beast... You said its name is Bahamut? You managed to awaken a primal?",
-English,scene_tutorial02,detail,Vyrn,"I thought the Astrals were the only ones who could control them.",
+English,scene_tutorial02,detail,Vyrn,Huff... Huff... I think we managed to lose the beard-twirlin' doofus...,
+English,scene_tutorial02,detail,Vyrn,That primal beast... You said its name is Bahamut? You managed to awaken a primal?,
+English,scene_tutorial02,detail,Vyrn,I thought the Astrals were the only ones who could control them.,
 English,scene_tutorial02,detail,Vyrn,"Besides, weren't the primals all wiped out hundreds of years ago during the War?",
-English,scene_tutorial02,detail,Katalina,"Lyria's power makes it possible. She's the only one who can control them... besides the Astrals.",
-English,scene_tutorial02,detail,Lyria,"...",
-English,scene_tutorial02,detail,Katalina,"And it would appear that's not all she can do...",
-English,scene_tutorial02,detail,,"The deep flesh wounds from the Hydra's claws have vanished from [Игрок].",
-English,scene_tutorial02,detail,Katalina,"Are you okay? Any pain or discomfort?",
+English,scene_tutorial02,detail,Katalina,Lyria's power makes it possible. She's the only one who can control them... besides the Astrals.,
+English,scene_tutorial02,detail,Lyria,...,
+English,scene_tutorial02,detail,Katalina,And it would appear that's not all she can do...,
+English,scene_tutorial02,detail,,The deep flesh wounds from the Hydra's claws have vanished from [Игрок].,
+English,scene_tutorial02,detail,Katalina,Are you okay? Any pain or discomfort?,
 English,scene_tutorial02,sel1_txt,,I seem to be fine.,
 English,scene_tutorial02,sel2_txt,,Nothing feels strange.,
-English,scene_tutorial02,detail,Lyria,"Katalina... [Игрок] risked life and limb to save me...",
+English,scene_tutorial02,detail,Lyria,Katalina... [Игрок] risked life and limb to save me...,
 English,scene_tutorial02,detail,Lyria,"But as a result, [Игрок] suffered horribly. Seeing [Игрок]'s vital flame begin to flicker and weaken, I decided to link our beings...",
-English,scene_tutorial02,detail,Lyria,"To repay [Игрок] in kind!",
-English,scene_tutorial02,detail,Katalina,"What!",
-English,scene_tutorial02,detail,Lyria,"That's right. From now on our souls are permanently intertwined...",
-English,scene_tutorial02,detail,Lyria,"[Игрок] and I now share the same life force.",
-English,scene_tutorial02,detail,Lyria,"I hope you're not mad... It was my only choice.",
+English,scene_tutorial02,detail,Lyria,To repay [Игрок] in kind!,
+English,scene_tutorial02,detail,Katalina,What!,
+English,scene_tutorial02,detail,Lyria,That's right. From now on our souls are permanently intertwined...,
+English,scene_tutorial02,detail,Lyria,[Игрок] and I now share the same life force.,
+English,scene_tutorial02,detail,Lyria,I hope you're not mad... It was my only choice.,
 English,scene_tutorial02,sel1_txt,,Thanks for saving me!,
-English,scene_tutorial02,detail,Lyria,"...",
+English,scene_tutorial02,detail,Lyria,...,
 English,scene_tutorial02,detail,Lyria,"By the way, I didn't summon that primal just by myself.",
 English,scene_tutorial02,detail,Lyria,"Bahamut seems to have appeared to protect you, [Игрок]... To lend you strength.",
-English,scene_tutorial02,detail,Vyrn,"No way... That's incredible! I always knew [Игрок] was something special!",
+English,scene_tutorial02,detail,Vyrn,No way... That's incredible! I always knew [Игрок] was something special!,
 English,scene_tutorial02,detail,Imperial Soldier,"Hey, I've found them! They're over here!",
 English,scene_tutorial02,detail,Vyrn,"Rats... Didn't take long for his cronies to show up. Are you good to go, [Игрок]?",
-English,scene_tutorial02,detail,Katalina,"You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.",
+English,scene_tutorial02,detail,Katalina,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.,
 English,scene_tutorial02,detail,Vyrn,"Are you sure? I mean, aren't you working for them?",
 English,scene_tutorial02,detail,Katalina,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape.",
-English,scene_tutorial02,detail,Katalina,"I'll save the rest for later.<br>Now get ready! They're here!",
-
+English,scene_tutorial02,detail,Katalina,I'll save the rest for later.<br>Now get ready! They're here!,
 English,scene_tutorial03,synopsis,,"Concluding that they'll be captured if they linger any longer, [Игрок] and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, [Игрок] begins a journey to the end of the sky.",
 English,scene_tutorial03,detail,Katalina,"Ngh... If we stay here, it's only a matter of time before they back us into a corner.",
-English,scene_tutorial03,detail,Katalina,"We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!",
+English,scene_tutorial03,detail,Katalina,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!,
 English,scene_tutorial03,detail,Vyrn,"Looks like your dream of skyfaring's coming true faster than we thought, [Игрок]! Better brace yourself!",
 English,scene_tutorial03,sel1_txt,,I'm ready for anything!,
-English,scene_tutorial03,sel2_txt,,Shouldn't you brace yourself, Vyrn?,
-English,scene_tutorial03,detail,Vyrn,"Ha ha! You sure know how to roll with the punches. Just like your dad!",
-English,scene_tutorial03,detail,Vyrn,"Ha ha! Who do you think you're talkin' to?",
+English,scene_tutorial03,sel2_txt,,Shouldn't you brace yourself Vyrn?,
+English,scene_tutorial03,detail,Vyrn,Ha ha! You sure know how to roll with the punches. Just like your dad!,
+English,scene_tutorial03,detail,Vyrn,Ha ha! Who do you think you're talkin' to?,
 English,scene_tutorial03,detail,Vyrn,"If anyone here was born to fly, it's me!",
 English,scene_tutorial03,detail,Lyria,"Hey, Katalina. Vyrn and [Игрок] seem like best friends, don't you think?",
-English,scene_tutorial03,detail,Katalina,"They do indeed.",
+English,scene_tutorial03,detail,Katalina,They do indeed.,
 English,scene_tutorial03,detail,Katalina,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently.",
 English,scene_tutorial03,detail,Lyria,"You've always liked cute little animals, right, Katalina?",
-English,scene_tutorial03,detail,Katalina,"Yes... But this is no time to daydream!",
-English,scene_tutorial03,detail,Katalina,"Let's go. The ship's this way!",
+English,scene_tutorial03,detail,Katalina,Yes... But this is no time to daydream!,
+English,scene_tutorial03,detail,Katalina,Let's go. The ship's this way!,
 English,scene_tutorial03,sel1_txt,,Got it!,
 English,scene_tutorial03,detail,Vyrn,"Our time to shine's arrived at last, [Игрок]!",
 English,scene_tutorial03,detail,Lyria,"I guess it's a new beginning for us both then, [Игрок]!",
-English,scene_tutorial03,detail,,"The gang boards a small imperial airship and sets sail from [Игрок]'s secluded island home.",
+English,scene_tutorial03,detail,,The gang boards a small imperial airship and sets sail from [Игрок]'s secluded island home.,
 English,scene_tutorial03,detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope.",
-English,scene_tutorial03,detail,Vyrn,"The sky! We're flying through the sky!",
+English,scene_tutorial03,detail,Vyrn,The sky! We're flying through the sky!,
 English,scene_tutorial03,detail,Vyrn,"Hey, Katalina! Where are we headed in this thing?",
 English,scene_tutorial03,detail,Katalina,"Good question... You're headed for the end of the sky, right, [Игрок]?",
 English,scene_tutorial03,detail,Katalina,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy.",
 English,scene_tutorial03,detail,Vyrn,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, [Игрок]?",
 English,scene_tutorial03,detail,Katalina,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms.",
-English,scene_tutorial03,detail,Katalina,"That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.",
-English,scene_tutorial03,detail,Lyria,"But the sky's so vast... Are they really going to come after us?",
-English,scene_tutorial03,detail,Katalina,"I'm certain they will... But you needn't worry. The sky is boundless!",
+English,scene_tutorial03,detail,Katalina,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.,
+English,scene_tutorial03,detail,Lyria,But the sky's so vast... Are they really going to come after us?,
+English,scene_tutorial03,detail,Katalina,I'm certain they will... But you needn't worry. The sky is boundless!,
 English,scene_tutorial03,detail,Katalina,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us.",
-English,scene_tutorial03,detail,Vyrn,"Sounds like we're in for the long haul!",
+English,scene_tutorial03,detail,Vyrn,Sounds like we're in for the long haul!,
 English,scene_tutorial03,detail,Katalina,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited.",
-English,scene_tutorial03,detail,Katalina,"First things first. We need to get our supplies in order.",
+English,scene_tutorial03,detail,Katalina,First things first. We need to get our supplies in order.,
 English,scene_tutorial03,detail,Katalina,"If we head to a large town, there should be a general store that caters to airship crews.",
-English,scene_tutorial03,detail,Katalina,"Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.",
-English,scene_tutorial03,detail,Lyria,"I can't believe it... I'm on a journey to a new world!",
+English,scene_tutorial03,detail,Katalina,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.,
+English,scene_tutorial03,detail,Lyria,I can't believe it... I'm on a journey to a new world!,
 English,scene_tutorial03,detail,Lyria,"With Katalina, Vyrn, [Игрок], and maybe even more people we'll meet along the way.",
-English,scene_tutorial03,detail,Vyrn,"We'll probably make plenty of new friends! I can't wait to see who we run into!",
+English,scene_tutorial03,detail,Vyrn,We'll probably make plenty of new friends! I can't wait to see who we run into!,
 English,scene_tutorial03,detail,Vyrn,"So let's get this adventure to the end of the sky started, [Игрок]!",
 English,scene_tutorial03,detail,,"[Игрок]'s soul now one with Lyria's, the time has come to bid farewell to home.",
 English,scene_tutorial03,detail,,"As though sent by [Игрок]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair.",
